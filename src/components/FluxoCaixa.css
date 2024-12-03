@@ -1,0 +1,14 @@
+.fluxo-caixa-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .fluxo-item {
+    margin: 20px 0;
+  }
+  
+  .fluxo-item h3 {
+    margin: 5px 0;
+  }
+  

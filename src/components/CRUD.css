@@ -1,0 +1,25 @@
+.crud-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .crud-container input, .crud-container select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .crud-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .crud-list {
+    margin-top: 20px;
+  }
+  
